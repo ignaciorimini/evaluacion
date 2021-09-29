@@ -1,0 +1,8 @@
+Definition of Ready:
+- Las historias deben ser independientes.
+- Las historias deben ser negociables.
+- Las historias deben aportar valor al usuario (Como "Rol" quiero "Accion" para "Justificación").
+- Las historias deben estar estimadas.
+- Las historias deben ser pequeñas.
+- Los detalles deben ser claros para ser entendidos por todos los miembros del equipo.
+- Cada historia debe tener criterios de aceptación para tener en claro cuál es el resultado esperado.
