@@ -1,2 +1,7 @@
 Yo como Usuario quiero poder enviar mi correo para que le llegue al destinatario.
-Estimación Fibonacci (2-13): 5.
+
+Criterios de aceptación:
+- El usuario debe poder elegir programar el envío o enviarlo en el instante.
+- El usuario debe saber si su correo llegó correctamente a su destinatario.
+
+Estimación Fibonacci (2-13): 8.

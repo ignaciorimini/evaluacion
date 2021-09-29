@@ -1,2 +1,6 @@
 Yo como Usuario quiero elegir un asunto de mi correo para poner un título al correo que voy a escribir.
+
+Criterios de aceptación:
+- El usuario debe poder escribir el nombre del asunto del correo.
+
 Estimación Fibonacci (2-13): 2.

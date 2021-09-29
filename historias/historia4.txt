@@ -1,2 +1,8 @@
 Yo como Usuario quiero poder escribir todo el cuerpo de mi correo para comunicar el mensaje que deseo.
-Estimación Fibonacci (2-13): 2.
+
+Criterios de aceptación:
+- El usuario debe poder escribir su texto deseado a mandar.
+- El usuario debe poder cambiar el tipo de fuente, color de letra, estilo.
+- El usuario debe poder adjuntar imágenes al correo.
+
+Estimación Fibonacci (2-13): 8.

@@ -1,2 +1,8 @@
 Yo como Usuario quiero iniciar sesión en mi cuenta de correo electrónico para poder enviar un mail identificando mi persona.
+
+Criterios de aceptación:
+ - El usuario debe poder ingresar su cuenta de correo electrónico.
+ - El usuario debe poder ingresar su contraseña.
+ - El usuario debe poder ingresar a su casilla de correo si los datos ingresados son correctos.
+
 Estimación Fibonacci (2-13): 5.

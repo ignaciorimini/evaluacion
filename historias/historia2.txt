@@ -1,2 +1,7 @@
 Yo como Usuario quiero elegir el destinatario para poder enviar un mail a la persona que deseo.
+
+Criterios de aceptación:
+- El usuario debe poder elegir la opción de Redactar un email.
+- El usuario debe poder ingresar el correo electrónico del destinatario.
+
 Estimación Fibonacci (2-13): 3.
